@@ -1,0 +1,3 @@
+ionic cordova plugin add cordova-plugin-android-permissions
+npm install --save @ionic-native/android-permissions
+npm uninstall --save @ionic-native/android-permissions
